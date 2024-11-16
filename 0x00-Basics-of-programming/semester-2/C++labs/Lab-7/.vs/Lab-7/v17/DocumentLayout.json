@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\0x00-Basics-of-programming\\semester-2\\C\u002B\u002Blabs\\Lab-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA00B7FE-8070-4427-9A35-3CCC3F5D7050}|Lab-7.vcxproj|E:\\repos\\0x00-Basics-of-programming\\semester-2\\C\u002B\u002Blabs\\Lab-7\\Lab-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA00B7FE-8070-4427-9A35-3CCC3F5D7050}|Lab-7.vcxproj|solutionrelative:Lab-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-7.cpp",
+              "DocumentMoniker": "E:\\repos\\0x00-Basics-of-programming\\semester-2\\C\u002B\u002Blabs\\Lab-7\\Lab-7.cpp",
+              "RelativeDocumentMoniker": "Lab-7.cpp",
+              "ToolTip": "E:\\repos\\0x00-Basics-of-programming\\semester-2\\C\u002B\u002Blabs\\Lab-7\\Lab-7.cpp",
+              "RelativeToolTip": "Lab-7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T09:13:26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

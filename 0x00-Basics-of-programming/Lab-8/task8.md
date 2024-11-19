@@ -1,4 +1,4 @@
-# TASKS
+# LABORATORY WORK No.7
 
 ## Exercise 1
 Explain the use of types and variables in the program below. Determine (without compiling or running) what values variables `n` and `m` will have after the program executes.

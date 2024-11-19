@@ -30,7 +30,7 @@ This involves specifying the prototype of the function, i.e., the function's nam
 ```cpp
 int functionName(int, double);
 ```
-##Function Definition
+## Function Definition
 This includes the complete header with parameter names and the source code (function body). For example:
 ```cpp
 int functionName(int a, double b) {

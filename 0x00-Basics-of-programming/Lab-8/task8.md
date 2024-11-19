@@ -3,7 +3,7 @@
 ## Exercise 1
 Explain the use of types and variables in the program below. Determine (without compiling or running) what values variables `n` and `m` will have after the program executes.
 
-![program example:](0x00-Basics-of-programming/Lab-8/pic-1.png)
+![program example:]("0x00-Basics-of-programming/Lab-8/pic-1.png")
 
 ---
 

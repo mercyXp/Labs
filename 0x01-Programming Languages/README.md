@@ -2,8 +2,7 @@
 
 The Programming Languages course focuses on the use of different programming languages, their classification and different Japanese paradigms, as well as compilation and interpretation. The practical part includes a set of practical tasks, each of which is proposed to be completed in two languages.
 
-## Task-1
-### Minimalist Wget
+## Task-1. Minimalist Wget
 - Using multitasking and synchronization primitives, implement a file download over HTTP that displays the number of bytes received every second.
 
 - For implementation, it is recommended to use `http.client`.

@@ -14,7 +14,6 @@ The program takes the file URL as a command-line argument and downloads it to th
 
 ## Task 2. Time Server 
 - Develop a web application (e.g., via the WSGI interface) that replicates a service similar to time.is and supports working with time zones using the `tz`library:
-
 - For a GET `/` request, the application should return the current time in the server's time zone in HTML format.
 - For a GET `/<tz name>` request, it should return the current time in the requested time zone in HTML format.
 - For a POST `/api/v1/time`request, it should return the current time in JSON format for the specified tz parameter (or the server's time zone if tz is not provided).
@@ -37,4 +36,11 @@ The program takes the file URL as a command-line argument and downloads it to th
 
 - Upon opening, the user should see a list of saved passwords and a form for adding a new one (login, password, url).  
 
-
+## Task 3. REPORT
+Report on a selected topic
+**Possible topics:**
+- A language or family of languages. Syntax features, application, compiler/interpreter structure
+- Compiler/Translator device or runtime environment.
+- Esoteric Languages and Dead Languages
+- Comparison of languages (syntax, paradigms, etc.)
+- Any interesting topic related to the courses of JP or Translation Theory.
